@@ -32,7 +32,12 @@ function App() {
     "image": "https://www.lego.com/cdn/cs/set/assets/blt7a4292faec34e557/75292.png",
     "url": "https://www.lego.com/fr-fr/product/default-the-mandalorian-bounty-hunter-transport-au-the-razor-crest-nz-the-razor-crest-75292",
     "price" : "140EUR"
-  }, 
+  },
+  {
+    "image" : "https://images-na.ssl-images-amazon.com/images/I/810XT4GfG%2BL._AC_SX425_.jpg",
+    "url" : "https://www.boulanger.com/ref/1103545",
+    "price" : "180EUR"
+  }
   ]
   return (
     <div className="App">
